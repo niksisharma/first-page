@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  font-size: 22px;
+
+}
+
+
+
+center{
+  margin-top: 20px;
+  width: 80%;
+}
+.form label{
+  display: block;
+  color: blue;
+}
+
+.container{
+  width: 50%;
+}
+
+.card{
+  background-color: white;
+  margin-top:22px;
+  display: block;
+  padding: 12px;
+  border-radius: 12px;
+  box-shadow: 12px 0px 12px black;
+  
+}
+
+.rd{
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+}
+b{
+  display: inline;
+  color: #282c34;
+}
+
+
+h1{
+  font-size: 10px;
+}
+
+
